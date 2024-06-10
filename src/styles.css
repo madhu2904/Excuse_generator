@@ -1,0 +1,64 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+button {
+  width: 100px;
+  height: 30px;
+  align-self: center;
+  font-size: larger;
+  /* background-color: lightpink; */
+  border-radius: 10px;
+}
+.headings {
+  display: flex;
+  gap: 10px;
+  width: fit-content;
+  flex-direction: column;
+  /* color: #302407; */
+  color: #0b0902;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+h1 {
+  background-color: #e0f3ff;
+  font-family: "Calistoga", serif;
+  font-weight: 400;
+  font-style: italic;
+  height: fit-content;
+  border-radius: 10px;
+  width: fit-content;
+  align-self: center;
+  justify-content: center;
+  margin-top: 50px;
+  font-size: 75px;
+}
+h2 {
+  font-family: "Calistoga", serif;
+  font-weight: 400;
+  font-size: 40px;
+  margin-top: 0px;
+  background-color: #e0f3ff;
+  width: fit-content;
+  align-self: center;
+  border-radius: 10px;
+}
+.calistoga-regular {
+  font-family: "Calistoga", serif;
+  font-weight: 350;
+  font-style: normal;
+}
+body {
+  background-color: rgb(40, 106, 163);
+  /* background-color: #333333; */
+  /* background-color: rgb(158, 55, 158); */
+}
+.display {
+  background-color: #e0f3ff;
+  border: #0b0902 solid 5px;
+}
