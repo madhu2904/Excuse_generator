@@ -1,2 +1,2 @@
 # Excuse_generator
-Created with CodeSandbox
+Excuse Generating app created with React and Api
